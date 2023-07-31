@@ -4,12 +4,12 @@ description: 'Are you an early 🐤 or a night 🦉? When are you most productiv
 
 inputs:
   GH_TOKEN:
-    description: 'GitHub access token with Repo scope'
+    description: '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'
     required: true
     default: ${{ github.token }}
 
   WAKATIME_API_KEY:
-    description: 'Your Wakatime API Key'
+    description: 'waka_e960da8b-060d-4f22-94fc-d952102e380a'
     required: true
 
   SECTION_NAME:
